@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leoamorimr
 - 👀 I’m interested in Develop new OpenSource projects to collaborate with community
-- 🌱 I’m currently learning Java SE11 
+- 🌱 I’m currently working in personal projects using SpringBoot
 - 💞️ I’m looking to collaborate on new Java Projects 
 - 📫 How to reach me leoamorimr@gmail.com
