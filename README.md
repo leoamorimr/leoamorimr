@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leoamorimr
 - 👀 I’m interested in Develop new API to collaborate with community
-- 🌱 I’m currently working in personal projects using NestJS and Go
+- 📖 I’m currently working in personal projects using NestJS and Go
 - 📫 How to reach me leoamorimr@gmail.com
 
 <div align="center">
