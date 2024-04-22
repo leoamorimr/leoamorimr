@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Braga, Portugal
 * ✉️  You can contact me at [leoamorimr@gmail.com](mailto:leoamorimr@gmail.com)
-* 🧠  I'm learning Spring Boot
+* 🧠  I'm learning AWS Services to take my AWS Associate Developer certification
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm a specialized Back-End Developer
 
